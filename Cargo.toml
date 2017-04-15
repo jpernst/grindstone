@@ -1,7 +1,9 @@
 [package]
 name = "grindstone"
 description = "[WIP] A data-oriented logic system for simulations."
+license = "MIT/Apache-2.0"
 version = "0.0.1"
 authors = ["Jameson Ernst <jameson@jpernst.com>"]
+repository = "https://github.com/jpernst/grindstone"
 
 [dependencies]
